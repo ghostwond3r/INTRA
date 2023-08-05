@@ -59,3 +59,12 @@ The "Content and application services" component ensures that users have access 
 4. Value-added services : Service networks
 
 The "Value-added services" component represents the suite of additional digital services that enhance the core network offerings. The associated "Service networks" ensure that these VAS are delivered efficiently and effectively to the end-users, integrating them into the broader network ecosystem.
+
+<br>
+
+5. E-commerce services : Transaction networks
+
+The "E-commerce services" component represents the various platforms and systems that facilitate online commerce. The associated "Transaction networks" ensure that all financial transactions on these platforms are handled securely and efficiently, providing both merchants and customers with confidence in the online shopping experience.
+
+<br>
+
