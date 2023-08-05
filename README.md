@@ -62,9 +62,9 @@ Connecting the two, the association between "Message and information exchange se
 
 <br>
 
-5. E-commerce services : Transaction networks
+5. Public and dedicated cloud services : International traffic exchange centers
 
-The "E-commerce services" component represents the various platforms and systems that facilitate online commerce. The associated "Transaction networks" ensure that all financial transactions on these platforms are handled securely and efficiently, providing both merchants and customers with confidence in the online shopping experience.
+the association between "Public and dedicated cloud services" and "International traffic exchange centers" suggests a strategic positioning of cloud services in relation to international data exchange. It implies that the network is equipped to handle cloud data that interacts with international entities, whether it's data being stored in international cloud environments or domestic cloud data being accessed by international users. This setup can be crucial for businesses and services that operate on a global scale, ensuring that they can efficiently and reliably access cloud resources regardless of where the data originates or is destined.
 
 <br>
 
