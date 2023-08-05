@@ -56,9 +56,9 @@ The association between "Naming and branding services" and "Access networks" sug
 
 <br>
 
-4. Value-added services : Service networks
+4. Message and information exchange services : Internal traffic exchange centers
 
-The "Value-added services" component represents the suite of additional digital services that enhance the core network offerings. The associated "Service networks" ensure that these VAS are delivered efficiently and effectively to the end-users, integrating them into the broader network ecosystem.
+Connecting the two, the association between "Message and information exchange services" and "Internal traffic exchange centers" implies that the National Information Network places a significant emphasis on ensuring that domestic data exchange (like emails, messages, and other forms of communication) is efficiently managed and optimized. By routing this data through internal exchange centers, the network can ensure faster, more reliable communication while also retaining more control over the data, which can be crucial for reasons ranging from national security to data sovereignty.
 
 <br>
 
