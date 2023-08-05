@@ -68,8 +68,10 @@ the association between "Public and dedicated cloud services" and "International
 
 <br>
 
-6. E-government services : Government networks
+6. Infrastructural cloud services : Content distribution networks
 
-the "E-government services" component represents the suite of digital services provided by the government to its citizens and other stakeholders. The associated "Government networks" ensure that these services are delivered securely, reliably, and efficiently, meeting the high standards expected of government operations.
+The association between "Infrastructural cloud services" and "Content distribution networks" suggests an integrated approach to delivering digital content. By combining the scalability and flexibility of cloud infrastructure with the efficiency of CDNs, the network can ensure that content, whether hosted on domestic cloud servers or elsewhere, is delivered to users quickly and reliably. This setup can be particularly beneficial for services that experience fluctuating demand, as they can scale their resources up or down as needed while still ensuring optimal content delivery to their users.
 
 <br>
+
+7. 
