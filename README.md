@@ -74,4 +74,6 @@ The association between "Infrastructural cloud services" and "Content distributi
 
 <br>
 
-7. 
+7. Native browser : Domain name servers
+
+the association between a "Native browser" and "Domain name servers" suggests a tightly integrated browsing experience tailored for the local audience. The native browser might be optimized to work seamlessly with local DNS servers, ensuring fast domain resolution and potentially directing users to local or approved content sources. This setup can offer a more streamlined and controlled browsing experience, ensuring that users access content quickly and in line with any local regulations or preferences. It also implies a level of control over the web content that users can access, as the DNS can be configured to block or redirect requests to specific websites or domains.
