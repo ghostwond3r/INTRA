@@ -68,3 +68,8 @@ The "E-commerce services" component represents the various platforms and systems
 
 <br>
 
+6. E-government services : Government networks
+
+the "E-government services" component represents the suite of digital services provided by the government to its citizens and other stakeholders. The associated "Government networks" ensure that these services are delivered securely, reliably, and efficiently, meeting the high standards expected of government operations.
+
+<br>
