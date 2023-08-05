@@ -50,9 +50,9 @@ The component "Data center hosting services" provides the infrastructure for sto
 
 <br>
 
-3. Content and application services : Access networks
+3. Naming and branding services : Access networks
 
-The "Content and application services" component ensures that users have access to the digital content and applications they need. The associated "Access networks" ensure that individual users or devices can connect to the network to access these services. Together, they represent the interface between the end-user and the vast array of digital services available on the network.
+The association between "Naming and branding services" and "Access networks" suggests that there's a focus on ensuring that the entry points to the network (i.e., the access networks) are clearly identifiable, labeled, and possibly customized for users. This could be to ensure easy accessibility, trustworthiness, or to promote specific national platforms and services.
 
 <br>
 
