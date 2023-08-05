@@ -36,8 +36,18 @@
 
 <br><br>
 
-1. Associated Service: Core network
+1. Communications services : Core network
 
 This suggests that the "Communication services" component is primarily responsible for the core networking functionalities of the National Information Network. The core network is the central part of a telecommunication network that provides various services to customers connected by the access network. It's the backbone that interconnects different parts of the network, ensuring data transmission between them.
 
-In the context of a National Information Network, the core network would handle the primary data routing and manage the main communication pathways. It would be responsible for ensuring efficient data transmission, handling network traffic, and maintaining connectivity across the entire network infrastructure.
+The core network would handle the primary data routing and manage the main communication pathways. It would be responsible for ensuring efficient data transmission, handling network traffic, and maintaining connectivity across the entire network infrastructure.
+
+<br>
+
+2. Data center hosting services : Aggregation networks
+
+The component "Data center hosting services" provides the infrastructure for storing and managing critical data and applications. The associated "Aggregation networks" ensure that traffic from various sources within the data center is efficiently consolidated and managed before it interacts with the core network.
+
+<br>
+
+3.
