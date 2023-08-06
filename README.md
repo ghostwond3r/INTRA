@@ -105,3 +105,111 @@ Security attachment services focus on enhancing and fortifying data and communic
 12. Provision of digital evidence : Dedicated networks
 
 The provision of digital evidence pertains to the collection, preservation, and presentation of electronic information that can be used as evidence. When associated with "Dedicated networks" in the context of the National Information Network, it suggests specialized network environments designed specifically for handling, transmitting, and storing digital evidence. These networks prioritize the integrity and authenticity of the data, ensuring that evidence remains untampered and retains its forensic value.
+
+<br>
+
+13. Authentic identity management (providing ID and digital certificate) : Government cloud infrastructure
+
+Authentic identity management involves the verification and validation of user identities, often through digital IDs and certificates. When linked with "Government cloud infrastructure", it indicates a centralized cloud-based system where government entities manage and issue digital identities and certificates. This infrastructure ensures secure, scalable, and efficient identity management for citizens, businesses, and other entities, reinforcing trust in digital interactions and transactions.
+
+<br>
+
+14. Messenger and social network : Public data centers
+
+Messenger and social network platforms facilitate communication and social interactions among users. When paired with "Public data centers", it suggests that these communication platforms are hosted and managed in centralized data centers accessible to the public. This setup ensures that the infrastructure supporting these platforms is robust, scalable, and optimized for performance, providing a reliable and efficient user experience for social interactions and messaging.
+
+<br>
+
+15. Basic location and map services : Dedicated data centers
+
+Basic location and map services provide geographical information, navigation, and related functionalities to users. When associated with "Dedicated data centers", it implies that these geospatial services are hosted in specialized data centers tailored for this purpose. This dedicated infrastructure ensures that location-based data is stored, processed, and delivered with high accuracy, reliability, and speed, offering users precise and efficient mapping and location services.
+
+<br>
+
+16. Repositories, libraries and APIs : Poles of data centers
+
+Repositories, libraries, and APIs represent collections of data, code, and interfaces that facilitate software development and integration. When linked with "Poles of data centers", it suggests that these software resources are centralized and hosted in major data center hubs. These poles or clusters of data centers ensure that developers and systems have fast, reliable access to essential software tools and data, promoting efficient development, integration, and scaling of digital services and applications.
+
+<br>
+
+17. Internal operating system : Public, dedicated, hybrid cloud infrastructure and basic services
+
+The "Internal operating system" refers to a proprietary or specialized OS tailored for specific needs within a region or organization. When paired with "Public, dedicated, hybrid cloud infrastructure and basic services", it indicates that this operating system is designed to seamlessly integrate and operate within various cloud environments. Whether it's on a public cloud, a dedicated private cloud, or a hybrid setup, the OS ensures compatibility, security, and optimized performance, leveraging the diverse cloud infrastructures to deliver robust and scalable services to its users.
+
+<br>
+
+18. Internal e-mail : Synchronous (NTP) servers
+
+"Internal e-mail" refers to a localized email system, often used within specific organizations or regions. When associated with "Synchronous (NTP) servers", it suggests that the email system places a high emphasis on accurate time synchronization. Every email sent or received is timestamped accurately, ensuring that communications are logged and organized in a precise chronological order. This setup enhances the reliability and traceability of email communications, ensuring that timestamps are consistent across the network.
+
+<br>
+
+19. Internet access services : Security Integrated Management Center
+
+"Internet access services" pertain to the provision of connectivity to the broader internet for users. When linked with the "Security Integrated Management Center", it indicates a centralized oversight and management of internet access points. This center ensures that all internet connections are monitored, regulated, and secured, providing users with safe and compliant access to the global internet while maintaining a vigilant watch on potential security threats and anomalies.
+
+<br>
+
+20. Internal welder : Sanitation Integrated Management Center
+
+The term "Internal welder" is a bit ambiguous in the context of IT and networking. However, if we interpret it as a component or system responsible for integrating or "welding" various internal services or modules, then its association with the "Sanitation Integrated Management Center" suggests a centralized hub that oversees the integration and cleanliness of data and services. This center ensures that all integrated components or services are free from contaminants, anomalies, or inconsistencies, providing a seamless and clean operational environment within the network.
+
+<br>
+
+21. Data protection services : National Information Network Observation and Monitoring Center
+
+"Data protection services" focus on safeguarding data from unauthorized access, breaches, and potential threats. When associated with the "National Information Network Observation and Monitoring Center", it indicates a centralized facility dedicated to continuously observing and monitoring the network's data flows. This center not only ensures the protection of data but also actively watches for anomalies, unauthorized activities, and potential threats, ensuring a high level of data security and integrity across the network.
+
+<br>
+
+22. Incident response : Services
+
+"Incident response" pertains to the strategies and procedures implemented to address and manage the aftermath of a security breach or cyberattack. When simply associated with "Services", it suggests a broad spectrum of services dedicated to detecting, responding to, and mitigating security incidents. These services ensure that any security event is promptly addressed, minimizing potential damage, and restoring normal operations as quickly as possible.
+
+<br>
+
+23. Securing services, reducing vulnerability and increasing stability : Resilience
+
+The component emphasizes the importance of bolstering security measures, minimizing system vulnerabilities, and enhancing overall stability. When paired with "Resilience", it underscores the network's commitment to building robust systems that can withstand and recover from disruptions, challenges, or attacks. This resilience ensures that services remain available and operational even in the face of unforeseen adversities, safeguarding both the infrastructure and its users.
+
+<br>
+
+24. Integrated Sanitation : Management services
+
+"Integrated Sanitation" refers to a comprehensive approach to ensuring data cleanliness, integrity, and the removal of contaminants or anomalies. When associated with "Management services", it indicates a suite of services dedicated to overseeing and managing the sanitation processes. These management services ensure that data and systems are consistently clean, accurate, and free from potential threats or inconsistencies, maintaining a high standard of data quality across the network.
+
+<br>
+
+25. Integrated security : Management services
+
+"Integrated security" emphasizes a holistic approach to safeguarding systems, data, and networks from potential threats and unauthorized access. When paired with "Management services", it suggests a comprehensive suite of services dedicated to overseeing and managing all aspects of security. These management services coordinate various security measures, protocols, and tools to ensure a unified and robust defense mechanism, protecting the network and its users from a wide range of cyber threats.
+
+<br>
+
+26. National Information Network resource : Management services
+
+The "National Information Network resource" represents the various assets, tools, and infrastructure components that constitute the network. When associated with "Management services", it indicates a suite of services dedicated to the oversight, allocation, and optimization of these resources. These management services ensure that the network's resources are efficiently utilized, maintained, and allocated according to the needs and priorities, ensuring optimal performance and sustainability of the entire network infrastructure.
+
+<br>
+
+27. Secure infrastructure : Communication services
+
+"Secure infrastructure" refers to a robust and protected foundational framework designed to prevent unauthorized access, breaches, and potential threats. When linked with "Communication services", it suggests that the infrastructure is specifically tailored to ensure the secure transmission and reception of data and messages. These communication services operate within the secure infrastructure, guaranteeing that all communications, whether voice, data, or multimedia, are protected, encrypted, and delivered without compromise to their integrity or confidentiality.
+
+<br>
+
+28. Transit : Services
+
+"Transit" pertains to the movement or transfer of data packets across networks, often involving multiple hops or intermediary points. When simply associated with "Services", it indicates a broad set of services dedicated to facilitating, managing, and optimizing the transit of data. These services ensure efficient routing, load balancing, and seamless data transfer across the network, ensuring that data reaches its intended destination promptly and without loss or degradation.
+
+<br>
+
+29. Defense integrated : Management services
+
+"Defense integrated" emphasizes a unified and coordinated approach to security, where various defense mechanisms work in harmony to protect the network. When paired with "Management services", it suggests a comprehensive suite of services dedicated to overseeing, coordinating, and optimizing these integrated defense strategies. These management services ensure that all security measures, from firewalls to intrusion detection systems, operate cohesively to provide a multi-layered and robust defense against potential threats and cyberattacks.
+
+<br>
+
+30. Cultural attachment : Services
+
+"Cultural attachment" refers to services or features that promote, preserve, or disseminate cultural values, heritage, and information. When associated with "Services," it suggests a range of offerings designed to facilitate the sharing and promotion of cultural content. These services might include platforms for sharing cultural media, educational resources about national heritage, or tools for cultural collaboration and exchange. They ensure that users can access, engage with, and contribute to the rich tapestry of their cultural identity within the digital realm.
